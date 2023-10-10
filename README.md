@@ -26,5 +26,5 @@ Recomendo ao clone via SSH, pois é mais prático.
 
 ## Instalação e inicialização do [Cypress](https://cypress.io) 🌲
 
-1. Na raiz do projeto, execute o comando `npm install cypress@9.5.1 --save-dev`
+1. Na raiz do projeto, execute o comando `npm install cypress --save-dev`
 2. Logo após, execute o comando `npx cypress open` para abrir o Cypress
